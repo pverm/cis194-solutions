@@ -1,4 +1,4 @@
-module Main where
+module Intro where
 
 main :: IO ()
 main = print (hanoi4 4 "a" "b" "c" "d")

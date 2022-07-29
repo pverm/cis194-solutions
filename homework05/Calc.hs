@@ -1,7 +1,7 @@
 {-# LANGUAGE FlexibleInstances #-}
 {-# LANGUAGE TypeSynonymInstances #-}
 
-module Main where
+module Calc where
 
 import qualified Data.Map as M
 import ExprT

@@ -1,7 +1,7 @@
 {-# LANGUAGE FlexibleInstances #-}
 {-# OPTIONS_GHC -fno-warn-missing-methods #-}
 
-module Main where
+module Fibonacci where
 
 main :: IO ()
 --main = print $ take 20 fibs2
